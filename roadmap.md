@@ -1,3 +1,11 @@
+## 📊 Overall Progress
+- [ ] Phase 1: Foundations
+- [ ] Phase 2: Tooling & Environment Setup
+- [ ] Phase 3: Simple AI Agents
+- [ ] Phase 4: Agentic Workflows & Automation
+- [ ] Phase 5: Cloud + AI Integration
+- [ ] Phase 6: Advanced Concepts
+========================================================
 # Learning Roadmap – Agentic AI & Cloud 🚀
 
 This roadmap outlines my structured learning path to transition from
