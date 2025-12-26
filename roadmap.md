@@ -1,5 +1,20 @@
 ## 📊 Overall Progress
 - [x] Phase 1: Foundations
+--------------------------
+- [ ] ## Phase 1: Foundations (In Progress)
+🧠 Goal: Build strong conceptual understanding
+
+- [x] Basics of Generative AI and Large Language Models (LLMs)
+- [x] How LLMs work (tokens, prompts, context)
+- [ ] Embeddings and vector databases
+- [x] Prompt engineering fundamentals
+- [ ] Agentic AI core concepts
+- [ ] Tools, memory, and planning in agents
+
+📌 Output:
+- [ ] Notes and summaries
+- [ ] Simple prompt experiments
+==========================================
 - [ ] Phase 2: Tooling & Environment Setup
 - [ ] Phase 3: Simple AI Agents
 - [ ] Phase 4: Agentic Workflows & Automation
