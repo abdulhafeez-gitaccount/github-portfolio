@@ -52,3 +52,5 @@ Detailed implementations live in dedicated repositories.
 📫 This portfolio will evolve as my skills grow.  
 Thanks for stopping by!
 # github-portfolio
+
+📍 See my learning plan in [roadmap.md](roadmap.md)
