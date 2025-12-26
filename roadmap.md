@@ -1,5 +1,5 @@
 ## 📊 Overall Progress
-- [ ] Phase 1: Foundations
+- [x] Phase 1: Foundations
 - [ ] Phase 2: Tooling & Environment Setup
 - [ ] Phase 3: Simple AI Agents
 - [ ] Phase 4: Agentic Workflows & Automation
