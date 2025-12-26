@@ -1,26 +1,35 @@
 ## 📊 Overall Progress
-- [x] Phase 1: Foundations
----------------------------
+
+- [X] Phase 1: Foundations
+
+---
+
 ## Phase 1: Foundations (In Progress)
+
 🧠 Goal: Build strong conceptual understanding
 
-- [x] Basics of Generative AI and Large Language Models (LLMs)
+- [X] Basics of Generative AI and Large Language Models (LLMs)
 - [ ] How LLMs work (tokens, prompts, context)
 - [ ] Embeddings and vector databases
-- [x] Prompt engineering fundamentals
+- [X] Prompt engineering fundamentals
 - [ ] Agentic AI core concepts
 - [ ] Tools, memory, and planning in agents
 
 📌 Output:
+
 - [ ] Notes and summaries
 - [ ] Simple prompt experiments
---------------------------------
+
+---
+
 - [ ] Phase 2: Tooling & Environment Setup
 - [ ] Phase 3: Simple AI Agents
 - [ ] Phase 4: Agentic Workflows & Automation
 - [ ] Phase 5: Cloud + AI Integration
 - [ ] Phase 6: Advanced Concepts
-========================================================
+
+---
+
 # Learning Roadmap – Agentic AI & Cloud 🚀
 
 This roadmap outlines my structured learning path to transition from
@@ -32,6 +41,7 @@ The roadmap is flexible and will evolve as I learn and build.
 ---
 
 ## Phase 1: Foundations (Completed / In Progress)
+
 🧠 Goal: Build strong conceptual understanding
 
 - Basics of Generative AI and Large Language Models (LLMs)
@@ -41,6 +51,7 @@ The roadmap is flexible and will evolve as I learn and build.
 - Understanding tools, memory, and planning in AI agents
 
 📌 Output:
+
 - Notes and summaries
 - Simple prompt experiments
 - Concept documentation
@@ -48,6 +59,7 @@ The roadmap is flexible and will evolve as I learn and build.
 ---
 
 ## Phase 2: Tooling & Environment Setup
+
 🛠 Goal: Get hands-on with AI tooling
 
 - Python refresher for AI development
@@ -57,6 +69,7 @@ The roadmap is flexible and will evolve as I learn and build.
 - Environment setup (virtual envs, secrets handling)
 
 📌 Output:
+
 - Small scripts
 - API experiments
 - Tool usage examples
@@ -64,6 +77,7 @@ The roadmap is flexible and will evolve as I learn and build.
 ---
 
 ## Phase 3: Simple AI Agents
+
 🤖 Goal: Build basic working agents
 
 - Single-task agents
@@ -73,6 +87,7 @@ The roadmap is flexible and will evolve as I learn and build.
 - Error handling and guardrails
 
 📌 Output:
+
 - Simple agent projects
 - Documented experiments
 - Reusable agent templates
@@ -80,6 +95,7 @@ The roadmap is flexible and will evolve as I learn and build.
 ---
 
 ## Phase 4: Agentic Workflows & Automation
+
 ⚙️ Goal: Apply agents to real use cases
 
 - Multi-step agent workflows
@@ -89,12 +105,14 @@ The roadmap is flexible and will evolve as I learn and build.
 - Workflow orchestration concepts
 
 📌 Output:
+
 - Practical automation demos
 - Cloud-focused agent use cases
 
 ---
 
 ## Phase 5: Cloud + AI Integration
+
 ☁️ Goal: Combine AI with cloud engineering skills
 
 - Deploying AI agents in cloud environments
@@ -104,12 +122,14 @@ The roadmap is flexible and will evolve as I learn and build.
 - Logging, monitoring, and reliability
 
 📌 Output:
+
 - Cloud-deployed agent examples
 - Secure AI architecture patterns
 
 ---
 
 ## Phase 6: Advanced Concepts (Future)
+
 🚀 Goal: Move towards production-ready thinking
 
 - Multi-agent systems
@@ -119,12 +139,14 @@ The roadmap is flexible and will evolve as I learn and build.
 - Scaling and performance considerations
 
 📌 Output:
+
 - Advanced experiments
 - Architecture documentation
 
 ---
 
 ## Continuous Goals
+
 📈 Ongoing focus throughout the journey
 
 - Consistent commits and documentation
@@ -134,4 +156,4 @@ The roadmap is flexible and will evolve as I learn and build.
 
 ---
 
-_Last updated: 2025_
+_Last updated: 26/12/2025_
