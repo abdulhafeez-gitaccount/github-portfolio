@@ -1,6 +1,21 @@
-## 📊 Overall Progress
+# Learning Roadmap – Agentic AI & Cloud 🚀
+
+This roadmap outlines my structured learning path to transition from
+cloud engineering into **Agentic AI and Generative AI**, with a focus on
+automation, intelligent systems, and secure cloud integration.
+
+The roadmap is flexible and will evolve as I learn and build.
+
+---
+
+📊 Overall Progress(Completed / In Progress)
 
 - [X] Phase 1: Foundations
+- [ ] Phase 2: Tooling & Environment Setup
+- [ ] Phase 3: Simple AI Agents
+- [ ] Phase 4: Agentic Workflows & Automation
+- [ ] Phase 5: Cloud + AI Integration
+- [ ] Phase 6: Advanced Concepts
 
 ---
 
@@ -12,49 +27,13 @@
 - [ ] How LLMs work (tokens, prompts, context)
 - [ ] Embeddings and vector databases
 - [X] Prompt engineering fundamentals
-- [ ] Agentic AI core concepts
-- [ ] Tools, memory, and planning in agents
+- [ ] Overview of Agentic AI core concepts
+- [ ] Tools, memory, and planning in AI agents
 
 📌 Output:
 
 - [ ] Notes and summaries
 - [ ] Simple prompt experiments
-
----
-
-- [ ] Phase 2: Tooling & Environment Setup
-- [ ] Phase 3: Simple AI Agents
-- [ ] Phase 4: Agentic Workflows & Automation
-- [ ] Phase 5: Cloud + AI Integration
-- [ ] Phase 6: Advanced Concepts
-
----
-
-# Learning Roadmap – Agentic AI & Cloud 🚀
-
-This roadmap outlines my structured learning path to transition from
-cloud engineering into **Agentic AI and Generative AI**, with a focus on
-automation, intelligent systems, and secure cloud integration.
-
-The roadmap is flexible and will evolve as I learn and build.
-
----
-
-## Phase 1: Foundations (Completed / In Progress)
-
-🧠 Goal: Build strong conceptual understanding
-
-- Basics of Generative AI and Large Language Models (LLMs)
-- How LLMs work (tokens, prompts, context, embeddings)
-- Prompt engineering fundamentals
-- Overview of Agentic AI concepts
-- Understanding tools, memory, and planning in AI agents
-
-📌 Output:
-
-- Notes and summaries
-- Simple prompt experiments
-- Concept documentation
 
 ---
 
