@@ -1,4 +1,4 @@
-# Learning Roadmap – Agentic AI & Cloud 🚀 Hi_123
+# Learning Roadmap – Agentic AI & Cloud 🚀 
 
 This roadmap outlines my structured learning path to transition from
 cloud engineering into **Agentic AI and Generative AI**, with a focus on
